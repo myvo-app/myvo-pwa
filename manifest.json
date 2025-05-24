@@ -1,0 +1,15 @@
+{
+  "name": "MYVO",
+  "short_name": "myvo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e777d",
+  "theme_color": "#0e777d",
+  "icons": [
+    {
+      "src": "https://static.wixstatic.com/media/0a5979_bb966095271041709dfce7d6eaede763~mv2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
