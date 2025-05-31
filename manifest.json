@@ -1,7 +1,7 @@
 {
   "name": "MYVO",
   "short_name": "myvo",
-  "start_url": "/",
+  "start_url": "/myvo-start",
   "display": "standalone",
   "background_color": "#0e777d",
   "theme_color": "#0e777d",
